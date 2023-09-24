@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gh-pages-experiment/static/css/main.31d6cfe0.css",
+    "main.js": "/gh-pages-experiment/static/js/main.05234ba5.js",
+    "static/js/787.7bccd639.chunk.js": "/gh-pages-experiment/static/js/787.7bccd639.chunk.js",
+    "index.html": "/gh-pages-experiment/index.html",
+    "main.05234ba5.js.map": "/gh-pages-experiment/static/js/main.05234ba5.js.map",
+    "787.7bccd639.chunk.js.map": "/gh-pages-experiment/static/js/787.7bccd639.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.05234ba5.js"
+  ]
+}
